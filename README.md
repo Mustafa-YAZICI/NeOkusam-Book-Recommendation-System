@@ -1,2 +1,2 @@
 # NeOkusam-Book-Recommendation-System
-Book Recommendation System
+Data Science Machine Learning Bootcamp Final Project
